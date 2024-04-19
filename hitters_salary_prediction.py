@@ -2,12 +2,10 @@
 # PROJECT: SALARY PREDICTİON WITH MACHINE LEARNING
 ###################################################
 
-# İş Problemi
 
 # Maaş bilgileri ve 1986 yılına ait kariyer istatistikleri paylaşılan beyzbol
 # oyuncularının maaş tahminleri için bir makine öğrenmesi projesi gerçekleştirilebilir mi?
 
-# Veri seti hikayesi
 
 # Bu veri seti orijinal olarak Carnegie Mellon Üniversitesi'nde bulunan StatLib kütüphanesinden alınmıştır.
 # Veri seti 1988 ASA Grafik Bölümü Poster Oturumu'nda kullanılan verilerin bir parçasıdır.
